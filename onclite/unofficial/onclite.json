@@ -1,25 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1582399800,
-      "filename": "lineage-17.1-20200222-UNOFFICIAL-onclite.zip",
-      "id": "c55e9748eee9c9ad70665f149d997637",
+      "datetime": 1582419000,
+      "filename": "lineage-17.1-20200223-UNOFFICIAL-onclite.zip",
+      "id": "69f7bba6e7a7f71037396c018d8381e0",
       "romtype": "unofficial",
-      "size": 813065830,
-      "url": "https://sourceforge.net/projects/exodusos/files/lineage-17.1-20200222-UNOFFICIAL-onclite.zip/download",
-      "version": "17.1"
-    }
-  ]
-}
-{
-  "response": [
-    {
-      "datetime": 1582399800,
-      "filename": "lineage-17.1-20200222-UNOFFICIAL-onclite.zip",
-      "id": "c55e9748eee9c9ad70665f149d997637",
-      "romtype": "unofficial",
-      "size": 813065830,
-      "url": "https://sourceforge.net/projects/exodusos/files/lineage-17.1-20200222-UNOFFICIAL-onclite.zip/download",
+      "size": 775400000‬,
+      "url": "https://sourceforge.net/projects/exodusos/files/lineage/onclite/unofficial/lineage-17.1-20200223-UNOFFICIAL-onclite.zip/download",
       "version": "17.1"
     }
   ]
