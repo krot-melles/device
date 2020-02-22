@@ -1,0 +1,59 @@
+//   2020-02-21
+★ Update dex2oat thread count
+★ Prefer HW codecs over SW.
+★ Optimize DEXPREOPT
+
+//   2020-02-20
+★ Full Lineage-ify
+★ Rebase tree
+★ Use Pixel charger animation
+★ Add permissions for smart charge
+★ Don't account allocstalls at all for lower RAM targets 
+★ Add energy-awareness service
+★ Enable native audio
+★ Revert lower animation speed 
+★ Update Camera
+
+//   2020-02-19
+★ Add Pixel Charging Animation
+★ Using 4096MB dalvik Heap configuration
+★ Memory optimization & surfaceflinger props
+★ Lower animation speed from 0.5x to 1.25x
+★ Some update SELinux
+
+//   2020-02-17
+★ Upstreamed to 4.9.214
+★ Rate Decreased at which VFS caches are reclaimed
+★ Force enable mobile network settings v2
+★ Set mobile data user preference
+★ Disable bluetooth by default
+★ Inflate signal strength
+★ Set google autofill service as default
+★ Remove wifi dual band support
+★ Enable memory optimizations
+★ Lower animation speed from 1x to 0.5x
+★ Added Simple LMK for Better Memory Management
+★ Enable Dynamic FPS
+★ Boot stock frequencies
+★ Force background tasks on little cores
+★ Add more optimization
+
+//   2020-02-15
+★ Fix OTG and MTP
+★ Disable AOD by default
+★ Add coral fingerprint feb patch
+★ Enable USB debugging at boot
+★ Add Notch Bar Killer overlay
+★ Add somekernel wakelock to save more battery
+★ Add Work Queue power efficient to save more battery
+★ Adjust Swapiness
+★ Fast deep sleep
+★ OC Display to 65hz | stable
+★ Upstream to CAF tag LA.UM.8.6.2.r1-06100-89xx.0
+★ Add more optimization
+
+//   2020-02-12
+★ Add somekernel wakelock to save more battery
+★ Add Work Queue power efficient to save more battery
+★ A trial to OC the Display to 63Hz
+★ Add some kernel optimization
