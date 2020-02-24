@@ -1,3 +1,15 @@
+//   2020-02-24
+★★ Unofficial: Auto updates interval set Daily 
+★ Enable volte
+★ Added color modes from coral
+★ Allow all apps to use smart replies
+★ Make Zram size 2GB
+★ Enable NTFS
+★ Stop kswapd early when nothing's waiting for it to free pages
+★ Include swap memory usage in the size of victims
+★ Relax memory barriers and clean up some styling
+★ Make LMK very aggressive 
+
 //   2020-02-23
 ★ Init Unofficial UPDATER
 ★ Add some props
