@@ -1,3 +1,11 @@
+//   2020-02-26
+★ Added SettingsProvider overlay
+★ Added AOD. Enable in LineageOS
+★ Use vmpressure notifier to trigger kills
+★ Disable BIG_CLUSTER_MIN_FREQ_ADJUST
+★ Some vendor thermal tweaks
+★ Boost charging speed
+
 //   2020-02-25
 ★ Enable VoLTE/VoWIFI for Digi Malaysia
 ★ Some Ram Tweaks
