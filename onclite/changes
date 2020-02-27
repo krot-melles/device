@@ -1,3 +1,9 @@
+//   2020-02-27
+★ Enable vmalloc saving
+★ Upstream to CAF tag LA.UM.8.6.2.r1-06600-89xx.0
+★ sepolicy: Address denials …
+★ Set UC CPU Frequency on boot
+
 //   2020-02-26
 ★ Added SettingsProvider overlay
 ★ Added AOD. Enable in LineageOS
