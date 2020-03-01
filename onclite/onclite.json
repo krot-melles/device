@@ -2,12 +2,12 @@
   "response": [
     {
       "datetime": 1583004507,
-      "filename": "exodus-10.0-20200229-UNOFFICIAL-onclite.zip",
-      "id": "aefc8fccf1ec212d18d04aa5426e8e9d",
+      "filename": "lineage-17.1-20200227-UNOFFICIAL-onclite.zip",
+      "id": "dd9eccf9b76c2b742a379b0f1e89a0f4",
       "romtype": "unofficial",
       "size": 774339696,
-      "url": "https://sourceforge.net/projects/exodusos/files/onclite/exodus-10.0-20200229-UNOFFICIAL-onclite.zip/download",
-      "version": "10.0"
+      "url": "https://sourceforge.net/projects/exodusos/files/lineage/onclite/unofficial/lineage-17.1-20200227-UNOFFICIAL-onclite.zip/download",
+      "version": "17.1"
     }
   ]
 }
