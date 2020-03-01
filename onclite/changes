@@ -1,3 +1,25 @@
+//   2020-03-01
+★ Upstreamed to Linux 4.9.215
+★ Import some configs from CAF
+★ Disable POWER_RESET_SYSCON for MSM8953
+★ GPU Target pwr lvl=5 & Initial=7
+★ Enable VoLTE For Vodafone India
+★ Enable VoLTE/WoWIFI for Megafone, MTS and Tele2/ECC/Volgogr
+★ add native ViLTE on smartfren indonesia
+★ enable volte on smartfren
+★ Enable IMS feature flags for supported carriers
+★ Enable WiFi calling forcibly.
+★ Enable ViLTE for Airtel (India) & 404 mcc
+★ Enable VoLTE/VoWIFI for Digi Malaysia
+★ Make WiFi Calling preference editable for Jio (India)
+★ Enable VoLTE/voWIFI for entire 226 mcc
+★ Add LMKD props
+★ Add Netflix-Specific prop
+★ Tweaks For Better Ram Management
+★ Enable permission for FPS Info
+★ FPS Info Path
+★ Ignore neverallows for while
+
 //   2020-02-27
 ★ Enable vmalloc saving
 ★ Upstream to CAF tag LA.UM.8.6.2.r1-06600-89xx.0

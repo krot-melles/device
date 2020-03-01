@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1583004507,
-      "filename": "lineage-17.1-20200227-UNOFFICIAL-onclite.zip",
-      "id": "dd9eccf9b76c2b742a379b0f1e89a0f4",
+      "datetime": 1583072620,
+      "filename": "lineage-17.1-20200301-UNOFFICIAL-onclite.zip",
+      "id": "4663e45efb61dc71526e049c82b9e327",
       "romtype": "unofficial",
-      "size": 774339696,
-      "url": "https://sourceforge.net/projects/exodusos/files/lineage/onclite/unofficial/lineage-17.1-20200227-UNOFFICIAL-onclite.zip/download",
+      "size": 774961067,
+      "url": "https://sourceforge.net/projects/exodusos/files/lineage/onclite/unofficial/lineage-17.1-20200301-UNOFFICIAL-onclite.zip/download",
       "version": "17.1"
     }
   ]
