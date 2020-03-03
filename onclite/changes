@@ -1,3 +1,14 @@
+//   2020-03-03
+Enable QCRIL radio power saving …
+Disable VSync for CPU rendered apps …
+Stop configuring read ahead from post_boot
+Import tunables/cpusets from coral
+Enable Power Save offload
+Update to Coral's Mar 2020 build fingerprint
+Enable support for bokeh mode
+Enable Ambient display brightness
+Add double tap gesture support
+
 //   2020-03-01
 ★ Upstreamed to Linux 4.9.215
 ★ Import some configs from CAF
