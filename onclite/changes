@@ -1,3 +1,9 @@
+//   2020-03-05
+Disable EGL buffer_age extension support
+Enable Wi-Fi Aware
+Localise NTP to improve GPS TTFF
+Fix radio powersaving
+
 //   2020-03-03
 Enable QCRIL radio power saving …
 Disable VSync for CPU rendered apps …
