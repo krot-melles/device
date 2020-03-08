@@ -1,3 +1,19 @@
+//   2020-03-08
+Don't cache the window size
+Interpret zero scanned pages as 100% pressure
+Don't exclude any allocation types
+Update adj targeting for Android 10
+Address fingerprint denials
+Allow power hal to write in /dev/input/event2
+Add Spectrum Support to XiaomiParts
+Add device specific XiaomiParts, XiaomiDoze
+Add Notch Bar Killer overlay
+Update system.prop
+Convert lights HAL into a native binderized HAL
+Remove some props which will be setted by init scripts
+Fix coral fingerprints
+Enable vibration multiple intensities
+
 //   2020-03-05
 Disable EGL buffer_age extension support
 Enable Wi-Fi Aware
@@ -16,119 +32,119 @@ Enable Ambient display brightness
 Add double tap gesture support
 
 //   2020-03-01
-★ Upstreamed to Linux 4.9.215
-★ Import some configs from CAF
-★ Disable POWER_RESET_SYSCON for MSM8953
-★ GPU Target pwr lvl=5 & Initial=7
-★ Enable VoLTE For Vodafone India
-★ Enable VoLTE/WoWIFI for Megafone, MTS and Tele2/ECC/Volgogr
-★ add native ViLTE on smartfren indonesia
-★ enable volte on smartfren
-★ Enable IMS feature flags for supported carriers
-★ Enable WiFi calling forcibly.
-★ Enable ViLTE for Airtel (India) & 404 mcc
-★ Enable VoLTE/VoWIFI for Digi Malaysia
-★ Make WiFi Calling preference editable for Jio (India)
-★ Enable VoLTE/voWIFI for entire 226 mcc
-★ Add LMKD props
-★ Add Netflix-Specific prop
-★ Tweaks For Better Ram Management
-★ Enable permission for FPS Info
-★ FPS Info Path
-★ Ignore neverallows for while
+Upstreamed to Linux 4.9.215
+Import some configs from CAF
+Disable POWER_RESET_SYSCON for MSM8953
+GPU Target pwr lvl=5 & Initial=7
+Enable VoLTE For Vodafone India
+Enable VoLTE/WoWIFI for Megafone, MTS and Tele2/ECC/Volgogr
+add native ViLTE on smartfren indonesia
+enable volte on smartfren
+Enable IMS feature flags for supported carriers
+Enable WiFi calling forcibly.
+Enable ViLTE for Airtel (India) & 404 mcc
+Enable VoLTE/VoWIFI for Digi Malaysia
+Make WiFi Calling preference editable for Jio (India)
+Enable VoLTE/voWIFI for entire 226 mcc
+Add LMKD props
+Add Netflix-Specific prop
+Tweaks For Better Ram Management
+Enable permission for FPS Info
+FPS Info Path
+Ignore neverallows for while
 
 //   2020-02-27
-★ Enable vmalloc saving
-★ Upstream to CAF tag LA.UM.8.6.2.r1-06600-89xx.0
-★ sepolicy: Address denials …
-★ Set UC CPU Frequency on boot
+Enable vmalloc saving
+Upstream to CAF tag LA.UM.8.6.2.r1-06600-89xx.0
+sepolicy: Address denials …
+Set UC CPU Frequency on boot
 
 //   2020-02-26
-★ Added SettingsProvider overlay
-★ Added AOD. Enable in LineageOS
-★ Use vmpressure notifier to trigger kills
-★ Disable BIG_CLUSTER_MIN_FREQ_ADJUST
-★ Some vendor thermal tweaks
-★ Boost charging speed
+Added SettingsProvider overlay
+Added AOD. Enable in LineageOS
+Use vmpressure notifier to trigger kills
+Disable BIG_CLUSTER_MIN_FREQ_ADJUST
+Some vendor thermal tweaks
+Boost charging speed
 
 //   2020-02-25
-★ Enable VoLTE/VoWIFI for Digi Malaysia
-★ Some Ram Tweaks
-★ Define Device have physical Display Cutout
+Enable VoLTE/VoWIFI for Digi Malaysia
+Some Ram Tweaks
+Define Device have physical Display Cutout
 
 //   2020-02-24
-★★ Unofficial: Auto updates interval set Daily 
-★ Enable volte
-★ Added color modes from coral
-★ Allow all apps to use smart replies
-★ Make Zram size 2GB
-★ Enable NTFS
-★ Stop kswapd early when nothing's waiting for it to free pages
-★ Include swap memory usage in the size of victims
-★ Relax memory barriers and clean up some styling
-★ Make LMK very aggressive 
+★Unofficial: Auto updates interval set Daily 
+Enable volte
+Added color modes from coral
+Allow all apps to use smart replies
+Make Zram size 2GB
+Enable NTFS
+Stop kswapd early when nothing's waiting for it to free pages
+Include swap memory usage in the size of victims
+Relax memory barriers and clean up some styling
+Make LMK very aggressive 
 
 //   2020-02-23
-★ Init Unofficial UPDATER
-★ Add some props
-★ Removed some duplicates
+Init Unofficial UPDATER
+Add some props
+Removed some duplicates
 
 //   2020-02-21
-★ Update dex2oat thread count
-★ Prefer HW codecs over SW.
-★ Optimize DEXPREOPT
+Update dex2oat thread count
+Prefer HW codecs over SW.
+Optimize DEXPREOPT
 
 //   2020-02-20
-★ Full Lineage-ify
-★ Rebase tree
-★ Use Pixel charger animation
-★ Add permissions for smart charge
-★ Don't account allocstalls at all for lower RAM targets 
-★ Add energy-awareness service
-★ Enable native audio
-★ Revert lower animation speed 
-★ Update Camera
+Full Lineage-ify
+Rebase tree
+Use Pixel charger animation
+Add permissions for smart charge
+Don't account allocstalls at all for lower RAM targets 
+Add energy-awareness service
+Enable native audio
+Revert lower animation speed 
+Update Camera
 
 //   2020-02-19
-★ Add Pixel Charging Animation
-★ Using 4096MB dalvik Heap configuration
-★ Memory optimization & surfaceflinger props
-★ Lower animation speed from 0.5x to 1.25x
-★ Some update SELinux
+Add Pixel Charging Animation
+Using 4096MB dalvik Heap configuration
+Memory optimization & surfaceflinger props
+Lower animation speed from 0.5x to 1.25x
+Some update SELinux
 
 //   2020-02-17
-★ Upstreamed to 4.9.214
-★ Rate Decreased at which VFS caches are reclaimed
-★ Force enable mobile network settings v2
-★ Set mobile data user preference
-★ Disable bluetooth by default
-★ Inflate signal strength
-★ Set google autofill service as default
-★ Remove wifi dual band support
-★ Enable memory optimizations
-★ Lower animation speed from 1x to 0.5x
-★ Added Simple LMK for Better Memory Management
-★ Enable Dynamic FPS
-★ Boot stock frequencies
-★ Force background tasks on little cores
-★ Add more optimization
+Upstreamed to 4.9.214
+Rate Decreased at which VFS caches are reclaimed
+Force enable mobile network settings v2
+Set mobile data user preference
+Disable bluetooth by default
+Inflate signal strength
+Set google autofill service as default
+Remove wifi dual band support
+Enable memory optimizations
+Lower animation speed from 1x to 0.5x
+Added Simple LMK for Better Memory Management
+Enable Dynamic FPS
+Boot stock frequencies
+Force background tasks on little cores
+Add more optimization
 
 //   2020-02-15
-★ Fix OTG and MTP
-★ Disable AOD by default
-★ Add coral fingerprint feb patch
-★ Enable USB debugging at boot
-★ Add Notch Bar Killer overlay
-★ Add somekernel wakelock to save more battery
-★ Add Work Queue power efficient to save more battery
-★ Adjust Swapiness
-★ Fast deep sleep
-★ OC Display to 65hz | stable
-★ Upstream to CAF tag LA.UM.8.6.2.r1-06100-89xx.0
-★ Add more optimization
+Fix OTG and MTP
+Disable AOD by default
+Add coral fingerprint feb patch
+Enable USB debugging at boot
+Add Notch Bar Killer overlay
+Add somekernel wakelock to save more battery
+Add Work Queue power efficient to save more battery
+Adjust Swapiness
+Fast deep sleep
+OC Display to 65hz | stable
+Upstream to CAF tag LA.UM.8.6.2.r1-06100-89xx.0
+Add more optimization
 
 //   2020-02-12
-★ Add somekernel wakelock to save more battery
-★ Add Work Queue power efficient to save more battery
-★ A trial to OC the Display to 63Hz
-★ Add some kernel optimization
+Add somekernel wakelock to save more battery
+Add Work Queue power efficient to save more battery
+A trial to OC the Display to 63Hz
+Add some kernel optimization
