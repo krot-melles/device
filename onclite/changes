@@ -1,3 +1,7 @@
+//   2020-03-10
+A trial to fix vibration strength control
+Update rom updater
+
 //   2020-03-08
 Don't cache the window size
 Interpret zero scanned pages as 100% pressure
