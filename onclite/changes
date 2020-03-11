@@ -1,3 +1,11 @@
+//   2020-03-11
+Adjust doze brightness automatically
+Filter and remap display modes
+Allow system_server access to charging sysfs node
+Add nodes for Smart Charging
+Use same CPU temp node as per all other kernel managers
+Override sysfs nodes for smart charge 
+
 //   2020-03-10
 A trial to fix vibration strength control
 Update rom updater
