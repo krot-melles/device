@@ -1,4 +1,9 @@
 //   2020-03-14
+Add Earpiece gain to sound control
+SmartCharging Available
+Update USB config
+Build basic usb hal
+Rearrange rootdir
 Fix Play Market
 Upstreamed to Linux 4.9.216
 Update some prop
