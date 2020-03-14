@@ -1,17 +1,20 @@
-//   2020-03-12
-Fix FINGERPRINT
+//   2020-03-14
+Fix Play Market
 Upstreamed to Linux 4.9.216
-
-//   2020-03-11
+Update some prop
+Update init onclite
+Use 4GB dalvik-heap config
 Adjust doze brightness automatically
 Filter and remap display modes
 Allow system_server access to charging sysfs node
 Add nodes for Smart Charging
 Use same CPU temp node as per all other kernel managers
-Override sysfs nodes for smart charge 
+Override sysfs nodes for smart charge
+Add Notch Bar Killer overlay
+Remove some props which will be setted by init scripts
+Maintainer Craft Team 
 
 //   2020-03-10
-A trial to fix vibration strength control
 Update rom updater
 
 //   2020-03-08
@@ -19,16 +22,6 @@ Don't cache the window size
 Interpret zero scanned pages as 100% pressure
 Don't exclude any allocation types
 Update adj targeting for Android 10
-Address fingerprint denials
-Allow power hal to write in /dev/input/event2
-Add Spectrum Support to XiaomiParts
-Add device specific XiaomiParts, XiaomiDoze
-Add Notch Bar Killer overlay
-Update system.prop
-Convert lights HAL into a native binderized HAL
-Remove some props which will be setted by init scripts
-Fix coral fingerprints
-Enable vibration multiple intensities
 
 //   2020-03-05
 Disable EGL buffer_age extension support
