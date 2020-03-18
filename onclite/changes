@@ -1,3 +1,11 @@
+//   2020-03-18
+Add full SEpolicy
+Fix USB/OTG 
+Add XiaomiParts
+Ubdate tr XiaomiParts
+Add USB initialization to init.target.rc
+Add some parameters for WI-FI Hotspot
+
 //   2020-03-17
 Update sepolice
 Add some prop 
