@@ -1,3 +1,8 @@
+//   2020-03-19
+Update XiaomiParts
+Test enforcing SELinux
+Some fix SEpolicy
+
 //   2020-03-18
 Add full SEpolicy
 Fix USB/OTG 
