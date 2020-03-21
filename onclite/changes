@@ -1,19 +1,23 @@
-//   2020-03-19
-Update XiaomiParts
-Test enforcing SELinux
-Some fix SEpolicy
-
-//   2020-03-18
-Add full SEpolicy
-Fix USB/OTG 
-Add XiaomiParts
-Ubdate tr XiaomiParts
+//   2020-03-21
+Remove deprecated wifi fw_path flags
+Update full SEpolicy
+Add parameters for Hotspot 2.0
 Add USB initialization to init.target.rc
-Add some parameters for WI-FI Hotspot
-
-//   2020-03-17
-Update sepolice
-Add some prop 
+SmartCharging Available
+Update USB config
+Rearrange rootdir
+Update some prop
+Update init
+Use 4GB dalvik-heap config
+Adjust doze brightness automatically
+Filter and remap display modes
+Allow system_server access to charging sysfs node
+Add nodes for Smart Charging
+Use same CPU temp node as per all other kernel managers
+Override sysfs nodes for smart charge
+Add Notch Bar Killer overlay
+Remove dtc-aosp
+Use Zeus kernel 4.9.217
 
 //   2020-03-14
 Add Earpiece gain to sound control
