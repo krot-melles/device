@@ -1,3 +1,11 @@
+//   2020-03-22
+[TEST] Wi-Fi fix work
+Revert Introduce 'SafailNet'"
+Add permission to /dev/spu_hal_ssr
+Add AID_VENDOR_THERMAL for thermal-engine
+Set carrier config to true
+Fix power off alarm
+ 
 //   2020-03-21
 Remove deprecated wifi fw_path flags
 Update full SEpolicy
