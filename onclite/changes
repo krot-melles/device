@@ -1,3 +1,13 @@
+//   2020-03-26
+Ignore isolated_app denials
+Update denials Wi-Fi / Camera / Other
+Add USE_DEVICE_SPECIFIC_DATA_IPA
+Update data-ipa-cfg-mgr from Los
+Disable DEBUG for userdebug builds
+Remove verbose cflag
+Import data-ipa-cfg-mgr from CAF
+Fix finger after unlock 
+
 //   2020-03-23
 Wi-Fi fix work
 
