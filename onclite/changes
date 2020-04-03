@@ -1,3 +1,9 @@
+//   2020-04-03
+Upstreamed to Linux 4.9.218
+Update SELinux denials 
+Add hostapd configs needed for CAF wlan
+Delete SELINUX_IGNORE_NEVERALLOWS
+
 //   2020-04-02
 [REVERT] Initial header export bp for Android (qseecom only)
 Implementing File Based Encryption
